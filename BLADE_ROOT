@@ -1,0 +1,9 @@
+cc_config(
+  optimize = [
+    '-std=c++14',
+    '-O2',
+  ],
+  cppflags = [
+    '-fdiagnostics-color',
+  ],
+)
