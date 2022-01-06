@@ -1,0 +1,665 @@
+{
+   "status": {
+    "cost": 0,
+    "count": 4,
+    "ovl_tag_ui": "UE",
+    "model_timeout": false,
+    "user_pin": "jd_6b8b132b3a9fa",
+    "is_lookalike_user": "0"
+   },
+   "querys": [
+    {
+     "pos_id": 5388,
+     "posinfo": {
+      "ad_response_num": 4,
+      "dsp_bid_cpm": 0,
+      "event_id": 7,
+      "model_type": 0,
+      "pos_ad_type": 8,
+      "pos_sku_num": 6,
+      "pos_img_num": 1,
+      "mul_show_ratio_flag": false
+     },
+     "mats": [
+      {
+       "F_value": 0,
+       "act_price": 0,
+       "ad_bid_rank": 1,
+       "ad_billtype": 0,
+       "ad_group_id": "600135352",
+       "ad_plan_id": "600131697",
+       "ad_q": 0,
+       "ad_send_type": 0,
+       "ad_sku_type": 1,
+       "ad_spread_type": 2,
+       "ad_title": "12.30日-堆品",
+       "ad_traffic_type": 122,
+       "ad_type": 1,
+       "adserver_ip": "10.207.151.3",
+       "advertise_pin": "竞标活动-市场部-6",
+       "advertise_type": 1,
+       "advertiser_id": 2952853,
+       "bid_price": 0.3,
+       "business_type": 256,
+       "campaign_type": 9,
+       "cid3": -1,
+       "color": "",
+       "comment_num": 182757,
+       "cpc_price": 0.3,
+       "ctr_gmv_lr": 0,
+       "ctr_value": 0.020027166232466705,
+       "device_type": 64,
+       "discount": 0,
+       "external_bid": 0.05,
+       "flow_order": 3,
+       "flowtag": "atd",
+       "gmv": 1,
+       "good_comments": 20595,
+       "have_similar": 0,
+       "height": 300,
+       "icon_url": "",
+       "image_tag_id": 0,
+       "image_tag_type": 0,
+       "image_tag_url": "",
+       "image_url": "jfs/t1/215106/20/9451/62497/61cc4eabEa39e9c3d/020c9c23c97cb7fc.jpg",
+       "ip_area": "1",
+       "long_image_url": "",
+       "lp_svr_value": 0,
+       "lp_type": 0,
+       "match_type": 1,
+       "material_id": "5694223235",
+       "mid_bid": 0.175,
+       "mobile_type": 6,
+       "natural_q": 0.0060081498697400109,
+       "pctr_in_mid": 1,
+       "pos_id": 5388,
+       "pos_union_id": 0,
+       "promo_desc": "",
+       "promo_title": "",
+       "promo_type": 0,
+       "provider_code": "",
+       "q_value": 0.020027166232466705,
+       "shop_id": "0",
+       "sku_adxbid_ecpm": 0,
+       "sku_bid_ecpm": 0,
+       "sku_brand": 13676,
+       "sku_cid1_id": -1,
+       "sku_cid2": -1,
+       "sku_cid3": 1392,
+       "sku_id": "52283304862",
+       "sku_model": "",
+       "sku_primary_name": "",
+       "sku_url": "https://pro.m.jd.com/mall/active/45DFjSrqkKGznEBFzSDGsN8xrjn5/index.html?babelChannel=ttt11&innerAnchor=52283304862&focus=2&PTAG=17051.9.1",
+       "sort_weight": 5.5040726861227987e-05,
+       "spu_id": "52283304862",
+       "sspus_type": 3,
+       "test_second_jump": 1,
+       "trigger_source": 0,
+       "trigger_type": 0,
+       "union_id": 1000135928,
+       "vender_id": 10194864,
+       "width": 600,
+       "worldwide": 1,
+       "dmp_id": "599488968",
+       "brand_name": "",
+       "dmp_crowd_ids": [
+        "599488968"
+       ],
+       "ad_ext_info": [
+        {
+         "order_id": 1,
+         "type": 1,
+         "sub_type": 5,
+         "label": "甄选美妆，购物狂欢！精选好物超值钜惠！"
+        }
+       ],
+       "shop_name": "",
+       "activity_id": "598701464",
+       "deal_id": "0",
+       "media_ad_id": "363188141786",
+       "dsp_material_id": "5690759963",
+       "activity_type": 3,
+       "delivery_system_type": 0,
+       "ecpc_exp_tag": 0,
+       "pos_package_id": "3976",
+       "seckill": 0,
+       "adcontent": "",
+       "cvr_value": 0,
+       "bidding_resource_type": 1,
+       "pos_merge_recall_type": 1,
+       "hot_key": "",
+       "cod": 0,
+       "ecpm": 0.0060081498697400109,
+       "ad_group_version": "1640835786000000000",
+       "material_version": "1640835786000000000",
+       "dmp_crowd_info": [
+        {
+         "crowd_id": "599488968",
+         "frontend_dimension_id": [
+          153,
+          532267476
+         ],
+         "backend_dim_info": [
+          {
+           "dimension_id": 41,
+           "dimension_value": [
+            "L1_1316"
+           ]
+          },
+          {
+           "dimension_id": 476,
+           "dimension_value": [
+            "1_2"
+           ]
+          }
+         ],
+         "crowd_type": 1
+        }
+       ],
+       "video_size": "62497",
+       "price_quantile_level": 96,
+       "call_app_ratio": 0.21049957817327053,
+       "scenario_type": 0,
+       "platform_laxin_infos": [
+        {
+         "platform_laxin_type": "kFirstDepartmentType",
+         "platform_laxin_interval": -1
+        },
+        {
+         "platform_laxin_type": "kSecondDepartmentType",
+         "platform_laxin_interval": -1
+        },
+        {
+         "platform_laxin_type": "kBrandType",
+         "platform_laxin_interval": -1
+        }
+       ],
+       "media_target_bid": 0,
+       "parent_material_id": "5694223235",
+       "img_md5": "f40429a860eea708f666eeec856258a5",
+       "budget": 500,
+       "media_resource_type": 4,
+       "play_platform": 1,
+       "ads_source_type": 3,
+       "ad_serving_platform": "kServingPlatformDefault"
+      },
+      {
+       "F_value": 0,
+       "act_price": 0,
+       "ad_bid_rank": 2,
+       "ad_billtype": 0,
+       "ad_group_id": "598638235",
+       "ad_plan_id": "598636391",
+       "ad_q": 0,
+       "ad_send_type": 0,
+       "ad_sku_type": 1,
+       "ad_spread_type": 2,
+       "ad_title": "百度-600*300图文（百度联盟-信息流大图）CPC-1",
+       "ad_traffic_type": 122,
+       "ad_type": 1,
+       "adserver_ip": "10.207.151.3",
+       "advertise_pin": "娇韵诗大贸投放",
+       "advertise_type": 3,
+       "advertiser_id": 3706915,
+       "bid_price": 0.19999999999999998,
+       "business_type": 256,
+       "campaign_type": 9,
+       "cid3": -1,
+       "color": "",
+       "comment_num": 41963,
+       "cpc_price": 0.19999999999999998,
+       "ctr_gmv_lr": 0,
+       "ctr_value": 0.024257441982626918,
+       "device_type": 64,
+       "discount": 0,
+       "external_bid": 0.05,
+       "flow_order": 3,
+       "flowtag": "atd",
+       "gmv": 1,
+       "good_comments": 5691,
+       "have_similar": 0,
+       "height": 300,
+       "icon_url": "",
+       "image_tag_id": 0,
+       "image_tag_type": 0,
+       "image_tag_url": "",
+       "image_url": "jfs/t1/204314/19/20037/88339/61caa5a2Ea1811d63/36973626df5ecf1a.jpg",
+       "ip_area": "1",
+       "long_image_url": "",
+       "lp_svr_value": 0,
+       "lp_type": 0,
+       "match_type": 1,
+       "material_id": "5677152871",
+       "mid_bid": 0.125,
+       "mobile_type": 6,
+       "natural_q": 0.004851488396525383,
+       "pctr_in_mid": 1,
+       "pos_id": 5388,
+       "pos_union_id": 0,
+       "promo_desc": "",
+       "promo_title": "",
+       "promo_type": 0,
+       "provider_code": "shwdsm",
+       "q_value": 0.024257441982626918,
+       "shop_id": "0",
+       "sku_adxbid_ecpm": 0,
+       "sku_bid_ecpm": 0,
+       "sku_brand": 9181,
+       "sku_cid1_id": -1,
+       "sku_cid2": -1,
+       "sku_cid3": 13546,
+       "sku_id": "100029543766",
+       "sku_model": "",
+       "sku_primary_name": "",
+       "sku_url": "https://pro.m.jd.com/mall/active/3KvWzspSjvrgPhe3FjYc599hT2cY/index.htm?innerAnchor=100029543766&focus=2&PTAG=17051.9.1",
+       "sort_weight": 5.5935689854969772e-05,
+       "spu_id": "100005270565",
+       "sspus_type": 3,
+       "test_second_jump": 1,
+       "trigger_source": 0,
+       "trigger_type": 0,
+       "union_id": 1000135928,
+       "vender_id": 1000002983,
+       "width": 600,
+       "worldwide": 1,
+       "dmp_id": "594415763",
+       "brand_name": "",
+       "dmp_crowd_ids": [
+        "594415763"
+       ],
+       "ad_ext_info": [
+        {
+         "order_id": 1,
+         "type": 1,
+         "sub_type": 5,
+         "label": "1月13日 娇韵诗京东超级品牌日"
+        }
+       ],
+       "shop_name": "",
+       "deal_id": "0",
+       "media_ad_id": "362450861232",
+       "dsp_material_id": "5677151747",
+       "delivery_system_type": 0,
+       "ecpc_exp_tag": 0,
+       "pos_package_id": "3976",
+       "seckill": 0,
+       "adcontent": "",
+       "cvr_value": 0,
+       "bidding_resource_type": 1,
+       "pos_merge_recall_type": 1,
+       "hot_key": "",
+       "cod": 0,
+       "ecpm": 0.004851488396525383,
+       "ad_group_version": "1640793600000000000",
+       "material_version": "1640793600000000000",
+       "dmp_crowd_info": [
+        {
+         "crowd_id": "594415763",
+         "frontend_dimension_id": [
+          196,
+          294465217
+         ],
+         "backend_dim_info": [
+          {
+           "dimension_id": 41,
+           "dimension_value": [
+            "1390"
+           ]
+          }
+         ],
+         "crowd_type": 1
+        }
+       ],
+       "video_size": "88339",
+       "price_quantile_level": 100,
+       "call_app_ratio": 0.21049957817327053,
+       "scenario_type": 0,
+       "platform_laxin_infos": [
+        {
+         "platform_laxin_type": "kFirstDepartmentType",
+         "platform_laxin_interval": -1
+        },
+        {
+         "platform_laxin_type": "kSecondDepartmentType",
+         "platform_laxin_interval": -1
+        },
+        {
+         "platform_laxin_type": "kBrandType",
+         "platform_laxin_interval": -1
+        }
+       ],
+       "media_target_bid": 0,
+       "parent_material_id": "5677152871",
+       "img_md5": "97ee39fefbf91df8f8772e30a6d4fcf4",
+       "budget": 8000,
+       "media_resource_type": 4,
+       "play_platform": 1,
+       "ads_source_type": 3,
+       "ad_serving_platform": "kServingPlatformDefault"
+      },
+      {
+       "F_value": 0,
+       "act_price": 0,
+       "ad_bid_rank": 3,
+       "ad_billtype": 0,
+       "ad_group_id": "598638235",
+       "ad_plan_id": "598636391",
+       "ad_q": 0,
+       "ad_send_type": 0,
+       "ad_sku_type": 1,
+       "ad_spread_type": 2,
+       "ad_title": "百度-600*300图文（百度联盟-信息流大图）CPC-2",
+       "ad_traffic_type": 122,
+       "ad_type": 1,
+       "adserver_ip": "10.207.151.3",
+       "advertise_pin": "娇韵诗大贸投放",
+       "advertise_type": 3,
+       "advertiser_id": 3706915,
+       "bid_price": 0.19999999999999998,
+       "business_type": 256,
+       "campaign_type": 9,
+       "cid3": -1,
+       "color": "",
+       "comment_num": 41963,
+       "cpc_price": 0.19999999999999998,
+       "ctr_gmv_lr": 0,
+       "ctr_value": 0.023118186742067337,
+       "device_type": 64,
+       "discount": 0,
+       "external_bid": 0.05,
+       "flow_order": 3,
+       "flowtag": "atd",
+       "gmv": 1,
+       "good_comments": 5691,
+       "have_similar": 0,
+       "height": 300,
+       "icon_url": "",
+       "image_tag_id": 0,
+       "image_tag_type": 0,
+       "image_tag_url": "",
+       "image_url": "jfs/t1/210153/29/14229/115802/61caa5b2E030235d0/00e16a77de0cec2b.jpg",
+       "ip_area": "1",
+       "long_image_url": "",
+       "lp_svr_value": 0,
+       "lp_type": 0,
+       "match_type": 1,
+       "material_id": "5677152872",
+       "mid_bid": 0.125,
+       "mobile_type": 6,
+       "natural_q": 0.0046236373484134672,
+       "pctr_in_mid": 1,
+       "pos_id": 5388,
+       "pos_union_id": 0,
+       "promo_desc": "",
+       "promo_title": "",
+       "promo_type": 0,
+       "provider_code": "shwdsm",
+       "q_value": 0.023118186742067337,
+       "shop_id": "0",
+       "sku_adxbid_ecpm": 0,
+       "sku_bid_ecpm": 0,
+       "sku_brand": 9181,
+       "sku_cid1_id": -1,
+       "sku_cid2": -1,
+       "sku_cid3": 13546,
+       "sku_id": "100029543766",
+       "sku_model": "",
+       "sku_primary_name": "",
+       "sku_url": "https://pro.m.jd.com/mall/active/3KvWzspSjvrgPhe3FjYc599hT2cY/index.htm?innerAnchor=100029543766&focus=2&PTAG=17051.9.1",
+       "sort_weight": 5.0318569278585746e-05,
+       "spu_id": "100005270565",
+       "sspus_type": 3,
+       "test_second_jump": 1,
+       "trigger_source": 0,
+       "trigger_type": 0,
+       "union_id": 1000135928,
+       "vender_id": 1000002983,
+       "width": 600,
+       "worldwide": 1,
+       "dmp_id": "594415763",
+       "brand_name": "",
+       "dmp_crowd_ids": [
+        "594415763"
+       ],
+       "ad_ext_info": [
+        {
+         "order_id": 1,
+         "type": 1,
+         "sub_type": 5,
+         "label": "1月13日 娇韵诗京东超级品牌日"
+        }
+       ],
+       "shop_name": "",
+       "deal_id": "0",
+       "media_ad_id": "362450861250",
+       "dsp_material_id": "5677151746",
+       "delivery_system_type": 0,
+       "ecpc_exp_tag": 0,
+       "pos_package_id": "3976",
+       "seckill": 0,
+       "adcontent": "",
+       "cvr_value": 0,
+       "bidding_resource_type": 1,
+       "pos_merge_recall_type": 1,
+       "hot_key": "",
+       "cod": 0,
+       "ecpm": 0.0046236373484134672,
+       "ad_group_version": "1640793600000000000",
+       "material_version": "1640793600000000000",
+       "dmp_crowd_info": [
+        {
+         "crowd_id": "594415763",
+         "frontend_dimension_id": [
+          196,
+          294465217
+         ],
+         "backend_dim_info": [
+          {
+           "dimension_id": 41,
+           "dimension_value": [
+            "1390"
+           ]
+          }
+         ],
+         "crowd_type": 1
+        }
+       ],
+       "video_size": "115802",
+       "price_quantile_level": 100,
+       "call_app_ratio": 0.21049957817327053,
+       "scenario_type": 0,
+       "platform_laxin_infos": [
+        {
+         "platform_laxin_type": "kFirstDepartmentType",
+         "platform_laxin_interval": -1
+        },
+        {
+         "platform_laxin_type": "kSecondDepartmentType",
+         "platform_laxin_interval": -1
+        },
+        {
+         "platform_laxin_type": "kBrandType",
+         "platform_laxin_interval": -1
+        }
+       ],
+       "media_target_bid": 0,
+       "parent_material_id": "5677152872",
+       "img_md5": "4de30c9b16c9b3b4121e3a10c5351994",
+       "budget": 8000,
+       "media_resource_type": 4,
+       "play_platform": 1,
+       "ads_source_type": 3,
+       "ad_serving_platform": "kServingPlatformDefault"
+      },
+      {
+       "F_value": 0,
+       "act_price": 0,
+       "ad_bid_rank": 4,
+       "ad_billtype": 0,
+       "ad_group_id": "598638235",
+       "ad_plan_id": "598636391",
+       "ad_q": 0,
+       "ad_send_type": 0,
+       "ad_sku_type": 1,
+       "ad_spread_type": 2,
+       "ad_title": "百度-600*300图文（百度联盟-信息流大图）CPC-3",
+       "ad_traffic_type": 122,
+       "ad_type": 1,
+       "adserver_ip": "10.207.151.3",
+       "advertise_pin": "娇韵诗大贸投放",
+       "advertise_type": 3,
+       "advertiser_id": 3706915,
+       "bid_price": 0.19999999999999998,
+       "business_type": 256,
+       "campaign_type": 9,
+       "cid3": -1,
+       "color": "",
+       "comment_num": 41963,
+       "cpc_price": 0.19999999999999998,
+       "ctr_gmv_lr": 0,
+       "ctr_value": 0.022569451481103897,
+       "device_type": 64,
+       "discount": 0,
+       "external_bid": 0.05,
+       "flow_order": 3,
+       "flowtag": "atd",
+       "gmv": 1,
+       "good_comments": 5691,
+       "have_similar": 0,
+       "height": 300,
+       "icon_url": "",
+       "image_tag_id": 0,
+       "image_tag_type": 0,
+       "image_tag_url": "",
+       "image_url": "jfs/t1/209019/39/14123/76375/61caa5baE79e3ff1e/9487949f6233156c.jpg",
+       "ip_area": "1",
+       "long_image_url": "",
+       "lp_svr_value": 0,
+       "lp_type": 0,
+       "match_type": 1,
+       "material_id": "5677152873",
+       "mid_bid": 0.125,
+       "mobile_type": 6,
+       "natural_q": 0.0045138902962207792,
+       "pctr_in_mid": 1,
+       "pos_id": 5388,
+       "pos_union_id": 0,
+       "promo_desc": "",
+       "promo_title": "",
+       "promo_type": 0,
+       "provider_code": "shwdsm",
+       "q_value": 0.022569451481103897,
+       "shop_id": "0",
+       "sku_adxbid_ecpm": 0,
+       "sku_bid_ecpm": 0,
+       "sku_brand": 9181,
+       "sku_cid1_id": -1,
+       "sku_cid2": -1,
+       "sku_cid3": 13546,
+       "sku_id": "100029543766",
+       "sku_model": "",
+       "sku_primary_name": "",
+       "sku_url": "https://pro.m.jd.com/mall/active/3KvWzspSjvrgPhe3FjYc599hT2cY/index.htm?innerAnchor=100029543766&focus=2&PTAG=17051.9.1",
+       "sort_weight": 4.7728326296164948e-05,
+       "spu_id": "100005270565",
+       "sspus_type": 3,
+       "test_second_jump": 1,
+       "trigger_source": 0,
+       "trigger_type": 0,
+       "union_id": 1000135928,
+       "vender_id": 1000002983,
+       "width": 600,
+       "worldwide": 1,
+       "dmp_id": "594415763",
+       "brand_name": "",
+       "dmp_crowd_ids": [
+        "594415763"
+       ],
+       "ad_ext_info": [
+        {
+         "order_id": 1,
+         "type": 1,
+         "sub_type": 5,
+         "label": "1月13日 娇韵诗京东超级品牌日"
+        }
+       ],
+       "shop_name": "",
+       "deal_id": "0",
+       "media_ad_id": "362450857858",
+       "dsp_material_id": "5677151748",
+       "delivery_system_type": 0,
+       "ecpc_exp_tag": 0,
+       "pos_package_id": "3976",
+       "seckill": 0,
+       "adcontent": "",
+       "cvr_value": 0,
+       "bidding_resource_type": 1,
+       "pos_merge_recall_type": 1,
+       "hot_key": "",
+       "cod": 0,
+       "ecpm": 0.0045138902962207792,
+       "ad_group_version": "1640793600000000000",
+       "material_version": "1640793600000000000",
+       "dmp_crowd_info": [
+        {
+         "crowd_id": "594415763",
+         "frontend_dimension_id": [
+          196,
+          294465217
+         ],
+         "backend_dim_info": [
+          {
+           "dimension_id": 41,
+           "dimension_value": [
+            "1390"
+           ]
+          }
+         ],
+         "crowd_type": 1
+        }
+       ],
+       "video_size": "76375",
+       "price_quantile_level": 100,
+       "call_app_ratio": 0.21049957817327053,
+       "scenario_type": 0,
+       "platform_laxin_infos": [
+        {
+         "platform_laxin_type": "kFirstDepartmentType",
+         "platform_laxin_interval": -1
+        },
+        {
+         "platform_laxin_type": "kSecondDepartmentType",
+         "platform_laxin_interval": -1
+        },
+        {
+         "platform_laxin_type": "kBrandType",
+         "platform_laxin_interval": -1
+        }
+       ],
+       "media_target_bid": 0,
+       "parent_material_id": "5677152873",
+       "img_md5": "266c1a1cacb12699983192bfbf7df090",
+       "budget": 8000,
+       "media_resource_type": 4,
+       "play_platform": 1,
+       "ads_source_type": 3,
+       "ad_serving_platform": "kServingPlatformDefault"
+      }
+     ],
+     "overlap_exp": "mixtag_atd,ue,xga,gta,cta,f_ba_fl_l16338",
+     "palantir_expids": "ATD|MIXTAG_ATDR,ATD_A_FL_R,GTA,XGA,UE|;F|MIXTAG_FR,F_BA_FL_L16338|",
+     "ad_server_funnel": {
+      "call_retrieval_pic": 1,
+      "res_retrieval_pic": 1,
+      "call_retrieval_sku": 0,
+      "res_retrieval_sku": 0
+     }
+    }
+   ],
+   "pos_counts": [
+    {
+     "pos_id": 5388,
+     "count": 4
+    }
+   ]
+  }
