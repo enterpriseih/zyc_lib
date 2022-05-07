@@ -1,6 +1,7 @@
 #include <iostream>
 #include <memory>
 using namespace std;
+
 void test1() {
   std::shared_ptr<int> a = std::make_shared<int>(4);
   std::shared_ptr<int> b = a;
@@ -19,6 +20,7 @@ void test1() {
   cout << "b addr: " << b.get() << endl;
   cout << "a.count" << a.use_count() << endl;
 }
+
 void test2() {
   auto deletera = [](int *ptr) {
     delete ptr;
@@ -36,7 +38,16 @@ void test2() {
   ;
 }
 
+void test3() {
+  std::unique_ptr<int> unique = std::make_unique<int>(new int(100));
+  std::shared_ptr<int> shared(unique);
+  if (unique.get() == nullptr) {
+    cout << "construct a shared ptr by unique will clear the origin unique ptr"
+         << endl;
+  }
+}
+
 int main() {
-  test2();
+  test3();
   return 0;
 }
