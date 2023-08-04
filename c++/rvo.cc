@@ -1,4 +1,7 @@
 #include <iostream>
+
+// test for rvo(return value optimization)
+// 减少copy，直接在调用者处构造对象
 class A {
 public:
   A() { std::cout << "constructor A" << std::endl; }

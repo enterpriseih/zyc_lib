@@ -1,4 +1,7 @@
 #include <iostream>
+// 对于重载的测试
+// 1. 返回值不能用于重载
+// 2. const member function不能用于重载
 class A {
 public:
   void f() {}

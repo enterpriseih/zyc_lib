@@ -1,7 +1,7 @@
 #include <iostream>
 #include <typeinfo>
 using namespace std;
-
+//  type_id 标识对象啊的实际类型
 class Base {
 public:
   virtual ~Base() {} // without this line the class is not polymorphic

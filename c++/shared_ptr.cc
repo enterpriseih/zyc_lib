@@ -2,6 +2,11 @@
 #include <memory>
 using namespace std;
 
+// 关于shared_ptr的一些测试:
+// 1.shared_ptr支持指定自定义的deleter，且其copy 构造函数会copy deleter
+// 2.use_cout记录其引用计数
+// 3.通过unique ptr构造一个shared ptr会清空原来的unique_ptr
+
 void test1() {
   std::shared_ptr<int> a = std::make_shared<int>(4);
   std::shared_ptr<int> b = a;

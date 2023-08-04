@@ -1,5 +1,5 @@
 #include <iostream>
-
+// 后置的++会多一次copy，且一般会调用前置的++
 int main() {
   int i = 2;
   // i++ ++;
